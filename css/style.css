@@ -26,6 +26,8 @@ nav{
     display: flex;
     align-items: center;
     width: 100px;
+    border: solid rgb(71, 38, 38);
+    height: 55px;
 }
 
 nav ul{
