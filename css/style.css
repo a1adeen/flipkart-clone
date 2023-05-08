@@ -41,6 +41,25 @@ nav ul li a{
     text-decoration: none;
 }
 
+/* #container{
+    min-height: calc(100vh -8vh -10vh);
+} */
+
+
+#text{
+    min-height: calc(100vh - 10vh - 8vh);
+}
+
+nav ul li a:hover{
+        color: bisque;
+        font-weight: bold;
+}
+
+#search{
+    width: 1000px;
+}
+/* will continue from search bar */
+
 footer{
     height: 10vh;
     background-color: black;
