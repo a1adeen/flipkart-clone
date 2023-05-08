@@ -18,6 +18,16 @@ header{
 }
 
 
+nav{
+    display: flex;
+}   
+
+#logo{
+    display: flex;
+    align-items: center;
+    width: 100px;
+}
+
 nav ul{
     display: flex;
     justify-content:flex-start;
